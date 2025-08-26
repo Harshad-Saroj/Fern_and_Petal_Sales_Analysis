@@ -23,5 +23,6 @@ customer behavior, and product performance. The dashboard answers the following:
 ---
 
 Dashboard :
-![Dashboard Preview](<img width="1878" height="852" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/12e193d2-912b-422a-8f12-e8304d62c784" />)
 
+
+<img width="1878" height="852" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/59fe1400-ff95-4231-8e7a-8ced13f0c8ff" />
